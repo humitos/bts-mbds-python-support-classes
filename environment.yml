@@ -1,0 +1,14 @@
+name: bts36-support-classes
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - notebook
+  - jupyterlab
+  - beautifulsoup4
+  - python-dateutil
